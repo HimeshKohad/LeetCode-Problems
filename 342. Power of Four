@@ -1,3 +1,5 @@
+Java Code:
+
 class Solution {
     public boolean isPowerOfFour(int n) {
         if (n <= 0){
