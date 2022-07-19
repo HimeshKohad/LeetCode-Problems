@@ -1,3 +1,5 @@
+Java Code:
+
 class Solution {
     public int[] getConcatenation(int[] num) {
         int n = num.length;
