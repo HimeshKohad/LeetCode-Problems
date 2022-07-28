@@ -1,4 +1,5 @@
-class Solution {
+'''
+    class Solution {
     public boolean isAnagram(String s, String t) {
         
         if(s.length() != t.length()) 
@@ -18,3 +19,7 @@ class Solution {
         return true;
     }
 }
+'''
+
+Time Complexity: O(nlogn)
+Space Complexity: O(n)
