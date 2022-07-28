@@ -1,4 +1,4 @@
-'''
+
     class Solution {
     public boolean isAnagram(String s, String t) {
         
@@ -19,7 +19,7 @@
         return true;
     }
 }
-'''
 
-Time Complexity: O(nlogn)
+
+'''Time Complexity: O(nlogn)
 Space Complexity: O(n)
