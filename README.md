@@ -9,8 +9,11 @@
 
 You can access my solutions below:
 
+- [x] [0001 Two Sum](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/1.%20Two%20Sum)
+- [x] [0004 Median of Two Sorted Arrays](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/4.%20Median%20of%20Two%20Sorted%20Arrays)
 - [x] [0007 Reverse Integer](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/7.%20Reverse%20Integer)
 - [x] [0009 Palindrome Number](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/9.%20Palindrome%20Number)
+- [x] [0010 Regular Expression Matching](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/10.%20Regular%20Expression%20Matching)
 - [x] [0011 Container With Most Water](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/11.%20Container%20With%20Most%20Water)
 - [x] [0013 Roman to Integer](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/13.%20Roman%20to%20Integer)
 - [x] [0029 Divide Two Integers](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/29.%20Divide%20Two%20Integers)
