@@ -1,7 +1,7 @@
-<h1> Leetcode Problems </h1>
+<h1> Leetcode AC Solutions </h1>
 
 ### Hi there 👋,
-<p> This repository contains my leetcode solutions in C++ / Java. </p>
+<p> This repository contains my leetcode solutions in C++, Java & Python. </p>
 <p> Please give this repo a ⭐ if these solutions help you in any way (means a lot). </p>
 <p> Thanks for the support 😄 </p>
 
