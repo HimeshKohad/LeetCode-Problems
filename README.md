@@ -137,21 +137,99 @@ You can access my solutions below:
 
 - [x] [0283 Move Zeroes](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/283.%20Move%20Zeroes)
 
+- [x] [0287 Find the Duplicate Number](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/287.%20Find%20the%20Duplicate%20Number)
+
+- [x] [0300 Longest Increasing Subsequence](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/300.%20Longest%20Increasing%20Subsequence)
+
+- [x] [0326 Power of Three](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/326.%20Power%20of%20Three)
+
 - [x] [0342 Power of Four](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/342.%20Power%20of%20Four)
 
 - [x] [0344 Reverse String](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/344.%20Reverse%20String)
+
+- [x] [0350 Intersection of Two Arrays II](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/350.%20Intersection%20of%20Two%20Arrays%20II)
 
 - [x] [0367 Valid Perfect Square](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/367.%20Valid%20Perfect%20Square)
 
 - [x] [0371 Sum of Two Integers](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/371.%20Sum%20of%20Two%20Integers)
 
+- [x] [0374 Guess Number Higher or Lower](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/374.%20Guess%20Number%20Higher%20or%20Lower)
+
+- [x] [0377 Combination Sum IV](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/377.%20Combination%20Sum%20IV)
+
+- [x] [0378 Kth Smallest Element in a Sorted Matrix](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix)
+
+- [x] [0383 Ransom Note](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/383.%20Ransom%20Note)
+
+- [x] [0387 First Unique Character in a String](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/387.%20First%20Unique%20Character%20in%20a%20String)
+
+- [x] [0400 Nth Digit](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/400.%20Nth%20Digit)
+
+- [x] [0417 Pacific Atlantic Water Flow](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/417.%20Pacific%20Atlantic%20Water%20Flow)
+
+- [x] [0441 Arranging Coins](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/441.%20Arranging%20Coins)
+
+- [x] [0443 String Compression](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/443.%20String%20Compression)
+
+- [x] [0458 Poor Pigs](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/458.%20Poor%20Pigs)
+
 - [x] [0509 Fibonacci Number](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/509.%20Fibonacci%20Number)
+
+- [x] [0540 Single Element in a Sorted Array](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/540.%20Single%20Element%20in%20a%20Sorted%20Array)
+
+- [x] [0567 Permutation in String](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/567.%20Permutation%20in%20String)
+
+- [x] [0633 Sum of Square Numbers](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/633.%20Sum%20of%20Square%20Numbers)
+
+- [x] [0659 Split Array into Consecutive Subsequences](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/659.%20Split%20Array%20into%20Consecutive%20Subsequences)
+
+- [x] [0668 Kth Smallest Number in Multiplication Table](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/668.%20Kth%20Smallest%20Number%20in%20Multiplication%20Table)
+
+- [x] [0698 Partition to K Equal Sum Subsets](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets)
+
+- [x] [0704 Binary Search](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/704.%20Binary%20Search)
+
+- [x] [0729 My Calendar I](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/729.%20My%20Calendar%20I)
+
+- [x] [0744 Find Smallest Letter Greater Than Target](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target)
+
+- [x] [0792 Number of Matching Subsequences](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/792.%20Number%20of%20Matching%20Subsequences)
+
+- [x] [0823 Binary Trees With Factors](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/823.%20Binary%20Trees%20With%20Factors)
 
 - [x] [0852 Peak Index in Mountain Array](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/852.%20Peak%20Index%20in%20Mountain%20Array)
 
-- [x] [1285 Subtract the Product and Sum of Digits of an Integer](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer)
+- [x] [0858 Mirror Reflection](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/858.%20Mirror%20Reflection)
+
+- [x] [0869 Reordered Power of 2](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/869.%20Reordered%20Power%20of%202)
+
+- [x] [1009 Complement of Base 10 Integer](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/1009.%20Complement%20of%20Base%2010%20Integer)
+
+- [x] [1220 Count Vowels Permutation](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/1220.%20Count%20Vowels%20Permutation)
+
+- [x] [1281 Subtract the Product and Sum of Digits of an Integer](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer)
+
+- [x] [1329 Sort the Matrix Diagonally](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/1329.%20Sort%20the%20Matrix%20Diagonally)
+
+- [x] [1337 The K Weakest Rows in a Matrix](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix)
+
+- [x] [1346 Check If N and Its Double Exist](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist)
+
+- [x] [1351 Count Negative Numbers in a Sorted Matrix](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix)
+
+- [x] [1385 Find the Distance Value Between Two Arrays](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/1385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays)
+
+- [x] [1539 Kth Missing Positive Number](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/1539.%20Kth%20Missing%20Positive%20Number)
+
+- [x] [1608 Special Array With X Elements Greater Than or Equal X](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X)
+
+- [x] [1855 Maximum Distance Between a Pair of Values](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values)
+
+- [x] [1910 Remove All Occurrences of a Substring](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/1910.%20Remove%20All%20Occurrences%20of%20a%20Substring)
 
 - [x] [1929 Concatenation of Array](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/1929.%20Concatenation%20of%20Array)
+
+- [x] [2169 Count Operations to Obtain Zero](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/2169.%20Count%20Operations%20to%20Obtain%20Zero)
 
 - [x] [2235 Add Two Integers](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/2235.%20Add%20Two%20Integers)
 
