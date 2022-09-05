@@ -35,9 +35,13 @@ You can access my solutions below:
 
 - [x] [0027 Remove Element](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/27.%20Remove%20Element)
 
+- [x] [0028 Find the Index of the First Occurrence in a String](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String)
+
 - [x] [0029 Divide Two Integers](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/29.%20Divide%20Two%20Integers)
 
 - [x] [0030 Substring with Concatenation of All Words](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/30.%20Substring%20with%20Concatenation%20of%20All%20Words)
+
+- [x] [0031 Next Permutation](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/31.%20Next%20Permutation)
 
 - [x] [0032 Longest Valid Parentheses](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/32.%20Longest%20Valid%20Parentheses)
 
