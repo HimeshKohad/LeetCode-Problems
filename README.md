@@ -215,6 +215,8 @@ You can access my solutions below:
 
 - [x] [1281 Subtract the Product and Sum of Digits of an Integer](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer)
 
+- [x] [1283 Find the Smallest Divisor Given a Threshold](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold)
+
 - [x] [1329 Sort the Matrix Diagonally](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/1329.%20Sort%20the%20Matrix%20Diagonally)
 
 - [x] [1337 The K Weakest Rows in a Matrix](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix)
