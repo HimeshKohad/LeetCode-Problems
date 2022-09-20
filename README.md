@@ -153,6 +153,8 @@ You can access my solutions below:
 
 - [x] [0344 Reverse String](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/344.%20Reverse%20String)
 
+- [x] [0349 Intersection of Two Arrays](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/349.%20Intersection%20of%20Two%20Arrays)
+
 - [x] [0350 Intersection of Two Arrays II](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/350.%20Intersection%20of%20Two%20Arrays%20II)
 
 - [x] [0367 Valid Perfect Square](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/367.%20Valid%20Perfect%20Square)
