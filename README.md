@@ -33,6 +33,8 @@ You can access my solutions below:
 
 - [x] [0020 Valid Parentheses](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/20.%20Valid%20Parentheses)
 
+- [x] [0021 Merge Two Sorted Lists](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/21.%20Merge%20Two%20Sorted%20Lists)
+
 - [x] [0026 Remove Duplicates from Sorted Array](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/26.%20Remove%20Duplicates%20from%20Sorted%20Array)
 
 - [x] [0027 Remove Element](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/27.%20Remove%20Element)
