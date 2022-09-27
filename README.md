@@ -247,6 +247,8 @@ You can access my solutions below:
 
 - [x] [2235 Add Two Integers](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/2235.%20Add%20Two%20Integers)
 
+- [x] [2413 Smallest Even Multiple](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Smallest%20Even%20Multiple)
+
 ---
 
 ###  👉 Pull Requests are always appreciated
