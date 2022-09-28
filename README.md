@@ -251,7 +251,7 @@ You can access my solutions below:
 
 - [x] [2404 Most Frequent Even Element](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/2404.%20Most%20Frequent%20Even%20Element)
 
-- [x] [2413 Smallest Even Multiple](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Smallest%20Even%20Multiple)
+- [x] [2413 Smallest Even Multiple](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/2413.%20Smallest%20Even%20Multiple)
 
 ---
 
