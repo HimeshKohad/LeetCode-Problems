@@ -9,7 +9,7 @@
 
 You can access my solutions below:
 
-- [x] [0001 Two Sum](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/1.%20Two%20Sum)
+- [x] [0001 Two Sum](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1.%20Two%20Sum)
 
 - [x] [0004 Median of Two Sorted Arrays](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/4.%20Median%20of%20Two%20Sorted%20Arrays)
 
