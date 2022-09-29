@@ -195,6 +195,8 @@ You can access my solutions below:
 
 - [x] [0633 Sum of Square Numbers](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/633.%20Sum%20of%20Square%20Numbers)
 
+- [x] [0658 Find K Closest Elements](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/658.%20Find%20K%20Closest%20Elements)
+
 - [x] [0659 Split Array into Consecutive Subsequences](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/659.%20Split%20Array%20into%20Consecutive%20Subsequences)
 
 - [x] [0668 Kth Smallest Number in Multiplication Table](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/668.%20Kth%20Smallest%20Number%20in%20Multiplication%20Table)
