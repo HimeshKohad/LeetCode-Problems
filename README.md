@@ -224,6 +224,8 @@ You can access my solutions below:
 
 - [x] [1009 Complement of Base 10 Integer](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1009.%20Complement%20of%20Base%2010%20Integer)
 
+- [x] [1037 Valid Boomerang](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1037.%20Valid%20Boomerang)
+
 - [x] [1220 Count Vowels Permutation](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1220.%20Count%20Vowels%20Permutation)
 
 - [x] [1281 Subtract the Product and Sum of Digits of an Integer](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer)
