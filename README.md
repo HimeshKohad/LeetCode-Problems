@@ -122,6 +122,8 @@ You can access my solutions below:
 
 - [x] [0204 Count Primes](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/204.%20Count%20Primes)
 
+- [x] [0206 Reverse Linked List](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/206.%20Reverse%20Linked%20List)
+
 - [x] [0209 Minimum Size Subarray Sum](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/209.%20Minimum%20Size%20Subarray%20Sum)
 
 - [x] [0216 Combination Sum III](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/216.%20Combination%20Sum%20III)
