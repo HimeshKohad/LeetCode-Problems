@@ -94,6 +94,8 @@ You can access my solutions below:
 
 - [x] [0081 Search in Rotated Sorted Array II](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/81.%20Search%20in%20Rotated%20Sorted%20Array%20II)
 
+- [x] [0083 Remove Duplicates from Sorted List](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List)
+
 - [x] [0090 Subsets II](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/90.%20Subsets%20II)
 
 - [x] [0092 Reverse Linked List II](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/92.%20Reverse%20Linked%20List%20II)
