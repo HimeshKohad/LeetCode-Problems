@@ -106,6 +106,10 @@ You can access my solutions below:
 
 - [x] [0125 Valid Palindrome](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/125.%20Valid%20Palindrome)
 
+- [x] [0141 Linked List Cycle](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/141.%20Linked%20List%20Cycle)
+
+- [x] [0142 Linked List Cycle II](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/142.%20Linked%20List%20Cycle%20II)
+
 - [x] [0153 Find Minimum in Rotated Sorted Array](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)
 
 - [x] [0154 Find Minimum in Rotated Sorted Array II](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/154.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II)
