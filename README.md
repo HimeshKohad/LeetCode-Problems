@@ -38,6 +38,10 @@ You can access my solutions below:
 
 - [x] [0021 Merge Two Sorted Lists](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/21.%20Merge%20Two%20Sorted%20Lists)
 
+- [x] [0024 Swap Nodes in Pairs](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/24.%20Swap%20Nodes%20in%20Pairs)
+
+- [x] [0025 Reverse Nodes in k-Group](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/25.%20Reverse%20Nodes%20in%20k-Group)
+
 - [x] [0026 Remove Duplicates from Sorted Array](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array)
 
 - [x] [0027 Remove Element](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/27.%20Remove%20Element)
