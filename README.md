@@ -268,6 +268,8 @@ You can access my solutions below:
 
 - [x] [2235 Add Two Integers](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2235.%20Add%20Two%20Integers)
 
+- [x] [2380 Time Needed to Rearrange a Binary String](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2380.%20Time%20Needed%20to%20Rearrange%20a%20Binary%20String)
+
 - [x] [2395 Find Subarrays With Equal Sum](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2395.%20Find%20Subarrays%20With%20Equal%20Sum)
 
 - [x] [2404 Most Frequent Even Element](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2404.%20Most%20Frequent%20Even%20Element)
