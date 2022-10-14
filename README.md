@@ -270,6 +270,8 @@ You can access my solutions below:
 
 - [x] [1929 Concatenation of Array](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1929.%20Concatenation%20of%20Array)
 
+- [x] [2095 Delete the Middle Node of a Linked List](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List)
+
 - [x] [2169 Count Operations to Obtain Zero](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2169.%20Count%20Operations%20to%20Obtain%20Zero)
 
 - [x] [2235 Add Two Integers](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2235.%20Add%20Two%20Integers)
