@@ -100,6 +100,8 @@ You can access my solutions below:
 
 - [x] [0083 Remove Duplicates from Sorted List](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List)
 
+- [x] [0084 Largest Rectangle in Histogram](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/84.%20Largest%20Rectangle%20in%20Histogram)
+
 - [x] [0090 Subsets II](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/90.%20Subsets%20II)
 
 - [x] [0092 Reverse Linked List II](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/92.%20Reverse%20Linked%20List%20II)
