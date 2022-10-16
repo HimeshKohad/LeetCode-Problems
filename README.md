@@ -80,6 +80,8 @@ You can access my solutions below:
 
 - [x] [0058 Length of Last Word](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/58.%20Length%20of%20Last%20Word)
 
+- [x] [0061 Rotate List](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/61.%20Rotate%20List)
+
 - [x] [0062 Unique Paths](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/62.%20Unique%20Paths)
 
 - [x] [0066 Plus One](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/66.%20Plus%20One)
