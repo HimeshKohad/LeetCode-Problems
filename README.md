@@ -116,6 +116,10 @@ You can access my solutions below:
 
 - [x] [0125 Valid Palindrome](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/125.%20Valid%20Palindrome)
 
+- [x] [0136 Single Number](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/136.%20Single%20Number)
+
+- [x] [0137 Single Number II](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/137.%20Single%20Number%20II)
+
 - [x] [0141 Linked List Cycle](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/141.%20Linked%20List%20Cycle)
 
 - [x] [0142 Linked List Cycle II](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/142.%20Linked%20List%20Cycle%20II)
