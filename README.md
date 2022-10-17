@@ -272,6 +272,8 @@ You can access my solutions below:
 
 - [x] [1608 Special Array With X Elements Greater Than or Equal X](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X)
 
+- [x] [1832 Check if the Sentence Is Pangram](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram)
+
 - [x] [1855 Maximum Distance Between a Pair of Values](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values)
 
 - [x] [1910 Remove All Occurrences of a Substring](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1910.%20Remove%20All%20Occurrences%20of%20a%20Substring)
