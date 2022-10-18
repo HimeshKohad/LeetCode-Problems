@@ -210,6 +210,8 @@ You can access my solutions below:
 
 - [x] [0458 Poor Pigs](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/458.%20Poor%20Pigs)
 
+- [x] [0485 Max Consecutive Ones](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/485.%20Max%20Consecutive%20Ones)
+
 - [x] [0509 Fibonacci Number](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/509.%20Fibonacci%20Number)
 
 - [x] [0540 Single Element in a Sorted Array](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/540.%20Single%20Element%20in%20a%20Sorted%20Array)
