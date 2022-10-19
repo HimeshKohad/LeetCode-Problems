@@ -200,6 +200,8 @@ You can access my solutions below:
 
 - [x] [0387 First Unique Character in a String](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/387.%20First%20Unique%20Character%20in%20a%20String)
 
+- [x] [0392 Is Subsequence](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/392.%20Is%20Subsequence)
+
 - [x] [0400 Nth Digit](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/400.%20Nth%20Digit)
 
 - [x] [0417 Pacific Atlantic Water Flow](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/417.%20Pacific%20Atlantic%20Water%20Flow)
