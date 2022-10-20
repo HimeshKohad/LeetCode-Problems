@@ -166,9 +166,11 @@ You can access my solutions below:
 
 - [x] [0268 Missing Number](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/268.%20Missing%20Number)
 
-- [x] [0278 First Bad Version](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/278.%20First%20Bad%20Version)
+- [x] [0274 H-Index](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/274.%20H-Index)
 
 - [x] [0275 H-Index II](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/275.%20H-Index%20II)
+
+- [x] [0278 First Bad Version](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/278.%20First%20Bad%20Version)
 
 - [x] [0283 Move Zeroes](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/283.%20Move%20Zeroes)
 
