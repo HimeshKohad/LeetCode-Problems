@@ -252,6 +252,10 @@ You can access my solutions below:
 
 - [x] [0869 Reordered Power of 2](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/869.%20Reordered%20Power%20of%202)
 
+- [x] [0905 Sort Array By Parity](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/905.%20Sort%20Array%20By%20Parity)
+
+- [x] [0948 Bag of Tokens](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/948.%20Bag%20of%20Tokens)
+
 - [x] [0976 Largest Perimeter Triangle](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/976.%20Largest%20Perimeter%20Triangle)
 
 - [x] [1009 Complement of Base 10 Integer](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1009.%20Complement%20of%20Base%2010%20Integer)
