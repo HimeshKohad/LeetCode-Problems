@@ -268,6 +268,8 @@ You can access my solutions below:
 
 - [x] [1283 Find the Smallest Divisor Given a Threshold](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1283.%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold)
 
+- [x] [1323 Maximum 69 Number](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1323.%20Maximum%2069%20Number)
+
 - [x] [1328 Break a Palindrome](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1328.%20Break%20a%20Palindrome)
 
 - [x] [1329 Sort the Matrix Diagonally](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1329.%20Sort%20the%20Matrix%20Diagonally)
