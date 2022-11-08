@@ -284,6 +284,8 @@ You can access my solutions below:
 
 - [x] [1539 Kth Missing Positive Number](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1539.%20Kth%20Missing%20Positive%20Number)
 
+- [x] [1544 Make The String Great](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1544.%20Make%20The%20String%20Great)
+
 - [x] [1608 Special Array With X Elements Greater Than or Equal X](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X)
 
 - [x] [1832 Check if the Sentence Is Pangram](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1832.%20Check%20if%20the%20Sentence%20Is%20Pangram)
