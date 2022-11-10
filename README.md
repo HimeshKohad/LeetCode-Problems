@@ -262,6 +262,8 @@ You can access my solutions below:
 
 - [x] [1037 Valid Boomerang](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1037.%20Valid%20Boomerang)
 
+- [x] [1047 Remove All Adjacent Duplicates In String](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)
+
 - [x] [1220 Count Vowels Permutation](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1220.%20Count%20Vowels%20Permutation)
 
 - [x] [1281 Subtract the Product and Sum of Digits of an Integer](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer)
