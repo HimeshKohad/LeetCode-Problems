@@ -164,6 +164,8 @@ You can access my solutions below:
 
 - [x] [0242 Valid Anagram](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/242.%20Valid%20Anagram)
 
+- [x] [0263 Ugly Number](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/263.%20Ugly%20Number)
+
 - [x] [0268 Missing Number](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/268.%20Missing%20Number)
 
 - [x] [0274 H-Index](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/274.%20H-Index)
