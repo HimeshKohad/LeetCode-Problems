@@ -178,6 +178,8 @@ You can access my solutions below:
 
 - [x] [0287 Find the Duplicate Number](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/287.%20Find%20the%20Duplicate%20Number)
 
+- [x] [0290 Word Pattern](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/290.%20Word%20Pattern)
+
 - [x] [0300 Longest Increasing Subsequence](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/300.%20Longest%20Increasing%20Subsequence)
 
 - [x] [0326 Power of Three](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/326.%20Power%20of%20Three)
@@ -220,6 +222,8 @@ You can access my solutions below:
 
 - [x] [0509 Fibonacci Number](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/509.%20Fibonacci%20Number)
 
+- [x] [0520 Detect Capital](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/520.%20Detect%20Capital)
+
 - [x] [0540 Single Element in a Sorted Array](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/540.%20Single%20Element%20in%20a%20Sorted%20Array)
 
 - [x] [0557 Reverse Words in a String III](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/557.%20Reverse%20Words%20in%20a%20String%20III)
@@ -257,6 +261,8 @@ You can access my solutions below:
 - [x] [0869 Reordered Power of 2](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/869.%20Reordered%20Power%20of%202)
 
 - [x] [0905 Sort Array By Parity](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/905.%20Sort%20Array%20By%20Parity)
+
+- [x] [0944 Delete Columns to Make Sorted](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/944.%20Delete%20Columns%20to%20Make%20Sorted)
 
 - [x] [0948 Bag of Tokens](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/948.%20Bag%20of%20Tokens)
 
