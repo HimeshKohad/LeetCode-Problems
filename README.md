@@ -110,6 +110,8 @@ You can access my solutions below:
 
 - [x] [0098 Validate Binary Search Tree](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/98.%20Validate%20Binary%20Search%20Tree)
 
+- [x] [0100 Same Tree](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/100.%20Same%20Tree)
+
 - [x] [0108 Convert Sorted Array to Binary Search Tree](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree)
 
 - [x] [0118 Pascal's Triangle](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/118.%20Pascal's%20Triangle)
