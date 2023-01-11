@@ -3,19 +3,8 @@
 ### Hi there 👋,
 <p> This repository contains my leetcode solutions in C++, Java & Python. </p>
 <p> Please give this repo a ⭐ if these solutions help you in any way (means a lot). </p>
-<p> Share this repo with your friends --> https://github.com/HimeshKohad/LeetCode-Problems </p>
+<p> Share this repo with your friends </p>
 <p> Thanks for the support 😄 </p>
-
-<hr>
-
-## Contributors 🦸
-
-<p align="center">
-        <a href="https://github.com/HimeshKohad/LeetCode-Problems/graphs/contributors">
-          <img src="https://contrib.rocks/image?repo=HimeshKohad/LeetCode-Problems" />
-        </a>
-</p>
-
 
 <hr>
 
