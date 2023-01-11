@@ -3,7 +3,7 @@
 ### Hi there 👋,
 <p> This repository contains my leetcode solutions in C++, Java & Python. </p>
 <p> Please give this repo a ⭐ if these solutions help you in any way (means a lot). </p>
-<p> Share this repo with your friends </p>
+<p> Share this repo with your friends and follow me for more DSA content </p>
 <p> Thanks for the support 😄 </p>
 
 <hr>
