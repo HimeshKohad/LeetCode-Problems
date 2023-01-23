@@ -274,7 +274,7 @@ You can access my solutions below:
 
 - [x] [0976 Largest Perimeter Triangle](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/976.%20Largest%20Perimeter%20Triangle)
 
-- [x] [997. Find the Town Judge](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/997.%20Find%20the%20Town%20Judge)
+- [x] [0997 Find the Town Judge](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/997.%20Find%20the%20Town%20Judge)
 
 - [x] [1009 Complement of Base 10 Integer](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1009.%20Complement%20of%20Base%2010%20Integer)
 
