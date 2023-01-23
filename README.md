@@ -332,6 +332,8 @@ You can access my solutions below:
 
 - [x] [2413 Smallest Even Multiple](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2413.%20Smallest%20Even%20Multiple)
 
+- [x] [2540 Minimum Common Value](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2540.%20Minimum%20Common%20Value)
+
 ---
 
 ###  👉 Pull Requests are always appreciated
