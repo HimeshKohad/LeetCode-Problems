@@ -68,6 +68,8 @@ You can access my solutions below:
 
 - [x] [0041 First Missing Positive](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/41.%20First%20Missing%20Positive)
 
+- [x] [0042 Trapping Rain Water](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/42.%20Trapping%20Rain%20Water)
+
 - [x] [0046 Permutations](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/46.%20Permutations)
 
 - [x] [0047 Permutations II](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/47.%20Permutations%20II)
