@@ -326,6 +326,8 @@ You can access my solutions below:
 
 - [x] [2244 Minimum Rounds to Complete All Tasks](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2244.%20Minimum%20Rounds%20to%20Complete%20All%20Tasks)
 
+- [x] [2359 Find Closest Node to Given Two Nodes](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2359.%20Find%20Closest%20Node%20to%20Given%20Two%20Nodes)
+
 - [x] [2380 Time Needed to Rearrange a Binary String](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2380.%20Time%20Needed%20to%20Rearrange%20a%20Binary%20String)
 
 - [x] [2395 Find Subarrays With Equal Sum](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2395.%20Find%20Subarrays%20With%20Equal%20Sum)
