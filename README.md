@@ -254,6 +254,8 @@ You can access my solutions below:
 
 - [x] [0744 Find Smallest Letter Greater Than Target](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target)
 
+- [x] [787 Cheapest Flights Within K Stops](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/787.%20Cheapest%20Flights%20Within%20K%20Stops)
+
 - [x] [0792 Number of Matching Subsequences](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/792.%20Number%20of%20Matching%20Subsequences)
 
 - [x] [0823 Binary Trees With Factors](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/823.%20Binary%20Trees%20With%20Factors)
