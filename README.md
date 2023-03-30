@@ -12,6 +12,8 @@ You can access my solutions below:
 
 - [x] [0001 Two Sum](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1.%20Two%20Sum)
 
+- [x] [0003 Longest Substring Without Repeating Characters](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters)
+
 - [x] [0004 Median of Two Sorted Arrays](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/4.%20Median%20of%20Two%20Sorted%20Arrays)
 
 - [x] [0007 Reverse Integer](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/7.%20Reverse%20Integer)
