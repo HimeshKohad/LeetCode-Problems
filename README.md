@@ -349,6 +349,8 @@ You can access my solutions below:
 
 - [x] [2404 Most Frequent Even Element](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2404.%20Most%20Frequent%20Even%20Element)
 
+- [x] [2405 Optimal Partition of String](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2405.%20Optimal%20Partition%20of%20String)
+
 - [x] [2413 Smallest Even Multiple](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2413.%20Smallest%20Even%20Multiple)
 
 - [x] [2439 Minimize Maximum of Array](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2439.%20Minimize%20Maximum%20of%20Array)
