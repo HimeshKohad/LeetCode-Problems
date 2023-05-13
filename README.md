@@ -1,15 +1,21 @@
 <h1> Leetcode AC Solutions </h1>
 
 ### Hi there 👋,
-<p> This repository contains my leetcode solutions in C++, Java & Python. </p>
-<p> Please give this repo a ⭐ if these solutions help you in any way (means a lot). </p>
-<p> Share this repo with your friends and follow me for more DSA content </p>
-<p> Thanks for the support 😄 </p>
-<br>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/LeetCode-Problems/count.svg" />
-</p>
+
+Welcome to my LeetCode solutions repository! Here, you'll find my solutions to various LeetCode problems in C++, Java, and Python, including problems from the weekly and monthly contests, as well as other challenges.
+
+If you find these solutions helpful in any way, please give this repo a ⭐️. It means a lot and helps me keep motivated to continue sharing my work. 
+
+Feel free to share this repository with your friends who may find it useful, and don't forget to follow me for more DSA content. 
+
+Thank you for your support, and I hope these solutions help you on your journey to becoming a better problem solver. Happy coding! 😄
+
+[![GitHub stars](https://img.shields.io/github/stars/HimeshKohad/Leetcode-Problems.svg?style=flat&logo=github&colorB=green&label=stars)](https://github.com/your-username/leetcode-solutions/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HimeshKohad/Leetcode-Problems.svg?style=flat&logo=github&colorB=green&label=forks)](https://github.com/your-username/leetcode-solutions/network)
+[![GitHub issues](https://img.shields.io/github/issues/HimeshKohad/Leetcode-Problems.svg?style=flat&logo=github&colorB=red&label=issues)](https://github.com/your-username/leetcode-solutions/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/HimeshKohad/Leetcode-Problems.svg?style=flat&logo=github&colorB=red&label=pull%20requests)](https://github.com/your-username/leetcode-solutions/pulls)
+
+This repository contains a log of my LeetCode solutions, including problems from the weekly contests, monthly contests, and other challenges.
 
 <hr>
 
@@ -361,4 +367,8 @@ You can access my solutions below:
 
 ---
 
-###  👉 Pull Requests are always appreciated
+Contributions are always welcome! If you'd like to add a solution to a new problem or improve an existing solution, feel free to open a pull request.
+
+If you find any issues or have suggestions for improving this repository, please open an issue.
+
+Happy coding! :computer: :sparkles:
