@@ -30,6 +30,7 @@ The purpose of this repository is to serve as a central hub for solving and trac
 | No.  | Question                        | Difficulty | Solution |
 | :--- | :------------------------------ | :--------- | :------- |
 | 1. | Merge Strings Alternately | Easy | [Solution Link](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/1768.%20Merge%20Strings%20Alternately/solution.md) |
+| 2. | Greatest Common Divisor of Strings | Easy | [Solution Link](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/1071.%20Greatest%20Common%20Divisor%20of%20Strings/solution.md) |
 
 
 
