@@ -369,7 +369,7 @@ You can access my solutions below:
 
 You can also access the study plan solutions below:
 <br>
-[Leetcode 75](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/readme.md)
+- [Leetcode 75](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/readme.md) 
 
 ---
 Contributions are always welcome! If you'd like to add a solution to a new problem or improve an existing solution, feel free to open a pull request.
