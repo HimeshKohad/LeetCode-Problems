@@ -325,7 +325,7 @@ You can access my solutions below:
 
 - [x] [1385 Find the Distance Value Between Two Arrays](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays)
 
-- [x] [1431 Kids With the Greatest Number of Candies]()
+- [x] [1431 Kids With the Greatest Number of Candies](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Solutions/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md)
 
 - [x] [1539 Kth Missing Positive Number](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1539.%20Kth%20Missing%20Positive%20Number)
 
