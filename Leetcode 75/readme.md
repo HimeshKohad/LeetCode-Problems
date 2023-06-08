@@ -29,9 +29,10 @@ The purpose of this repository is to serve as a central hub for solving and trac
 
 | No.  | Question                        | Difficulty | Solution |
 | :--- | :------------------------------ | :--------- | :------- |
-| 1. | Merge Strings Alternately | Easy | [Solution Link](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/1768.%20Merge%20Strings%20Alternately/solution.md) |
-| 2. | Greatest Common Divisor of Strings | Easy | [Solution Link](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/1071.%20Greatest%20Common%20Divisor%20of%20Strings/solution.md) |
-| 3. | Kids With the Greatest Number of Candies | Easy | [Solution Link](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies/solution.md) |
+| 1. | Merge Strings Alternately | Easy | [Solution Link](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/solutions/1768.%20Merge%20Strings%20Alternately/solution.md) |
+| 2. | Greatest Common Divisor of Strings | Easy | [Solution Link](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/solutions/1071.%20Greatest%20Common%20Divisor%20of%20Strings/solution.md) |
+| 3. | Kids With the Greatest Number of Candies | Easy | [Solution Link](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/solutions/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies/solution.md) |
+| 4. | Can Place Flowers | Easy | [Solution Link](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/solutions/605.%20Can%20Place%20Flowers/solution.md) |
 
 
 
