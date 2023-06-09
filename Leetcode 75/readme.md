@@ -33,7 +33,7 @@ The purpose of this repository is to serve as a central hub for solving and trac
 | 2. | Greatest Common Divisor of Strings | Easy | [Solution Link](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/solutions/1071.%20Greatest%20Common%20Divisor%20of%20Strings/solution.md) |
 | 3. | Kids With the Greatest Number of Candies | Easy | [Solution Link](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/solutions/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies/solution.md) |
 | 4. | Can Place Flowers | Easy | [Solution Link](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/solutions/605.%20Can%20Place%20Flowers/solution.md) |
-
+| 5. | Reverse Vowels of a String | Easy | [Solution Link](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/solutions/345.%20Reverse%20Vowels%20of%20a%20String/solution.md) |
 
 
 ## How to Contribute
