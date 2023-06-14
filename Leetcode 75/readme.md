@@ -36,6 +36,7 @@ The purpose of this repository is to serve as a central hub for solving and trac
 | 5. | Reverse Vowels of a String | Easy | [Solution Link](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/solutions/345.%20Reverse%20Vowels%20of%20a%20String/solution.md) |
 | 6. | Reverse Words in a String | Medium | [Solution Link](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/solutions/151.%20Reverse%20Words%20in%20a%20String/solution.md) |
 | 7. | Product of Array Except Self | Medium | [Solution Link](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/solutions/238.%20Product%20of%20Array%20Except%20Self/solution.md) |
+| 8. | Increasing Triplet Subsequence | Medium | [Solution Link](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/solutions/334.%20Increasing%20Triplet%20Subsequence/solution.md) |
 
 
 ## How to Contribute
