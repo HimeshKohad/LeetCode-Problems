@@ -17,6 +17,10 @@ Thank you for your support, and I hope these solutions help you on your journey 
 
 This repository contains a log of my LeetCode solutions, including problems from the weekly contests, monthly contests, and other challenges.
 
+You can also access the study plan solutions below:
+<br>
+- [x] [Leetcode 75](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/readme.md)
+
 <hr>
 
 You can access my solutions below:
@@ -365,13 +369,7 @@ You can access my solutions below:
 
 - [x] [2444 Count Subarrays With Fixed Bounds](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2444.%20Count%20Subarrays%20With%20Fixed%20Bounds)
 
-- [x] [2540 Minimum Common Value](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2540.%20Minimum%20Common%20Value)
-
----
-
-You can also access the study plan solutions below:
-<br>
-- [Leetcode 75](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/readme.md) 
+- [x] [2540 Minimum Common Value](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2540.%20Minimum%20Common%20Value) 
 
 ---
 Contributions are always welcome! If you'd like to add a solution to a new problem or improve an existing solution, feel free to open a pull request.
