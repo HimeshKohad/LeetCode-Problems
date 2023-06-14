@@ -119,4 +119,4 @@ Please review and adhere to the [Code of Conduct](CODE_OF_CONDUCT.md) when parti
 
 ## License
 
-By contributing to the Leetcode-Problems repository, you agree that your contributions will be licensed under the [GNU License](LICENSE).
+By contributing to the Leetcode-Problems repository, you agree that your contributions will be licensed under the [GNU License](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/LICENSE).
