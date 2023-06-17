@@ -43,6 +43,8 @@ The purpose of this repository is to serve as a central hub for solving and trac
 | No.  | Question                        | Difficulty | Solution |
 | :--- | :------------------------------ | :--------- | :------- |
 | 1. | Move Zeroes | Easy | [Solution Link](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/solutions/283.%20Move%20Zeroes/solution.md) |
+| 2. | Is Subsequence | Easy | [Solution Link](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/solutions/392.%20Is%20Subsequence/solution.md) |
+
 
 
 ## How to Contribute
