@@ -45,6 +45,7 @@ The purpose of this repository is to serve as a central hub for solving and trac
 | 1. | Move Zeroes | Easy | [Solution Link](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/solutions/283.%20Move%20Zeroes/solution.md) |
 | 2. | Is Subsequence | Easy | [Solution Link](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/solutions/392.%20Is%20Subsequence/solution.md) |
 | 3. | Container With Most Water | Medium | [Solution Link](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/solutions/11.%20Container%20With%20Most%20Water/solution.md) |
+| 4. | Max Number of K-Sum Pairs | Medium | [Solution Link](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/solutions/1679.%20Max%20Number%20of%20K-Sum%20Pairs/solution.md) |
 
 
 
