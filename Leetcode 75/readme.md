@@ -56,6 +56,7 @@ The purpose of this repository is to serve as a central hub for solving and trac
 | No.  | Question                        | Difficulty | Solution |
 | :--- | :------------------------------ | :--------- | :------- |
 | 1. | Delete the Middle Node of a Linked List | Medium | [Solution Link](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/solutions/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List/solution.md) |
+| 2. | Odd Even Linked List | Medium | [Solution Link](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Leetcode%2075/solutions/328.%20Odd%20Even%20Linked%20List/solution.md) |
 
 ## How to Contribute
 
