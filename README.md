@@ -133,6 +133,8 @@ You can access my solutions below:
 
 - [x] [0108 Convert Sorted Array to Binary Search Tree](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree)
 
+- [x] [0111 Minimum Depth of Binary Tree](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree)
+
 - [x] [0118 Pascal's Triangle](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/118.%20Pascal's%20Triangle)
 
 - [x] [0125 Valid Palindrome](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/125.%20Valid%20Palindrome)
