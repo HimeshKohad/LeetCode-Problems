@@ -133,6 +133,8 @@ You can access my solutions below:
 
 - [x] [0103 Binary Tree Zigzag Level Order Traversal](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal)
 
+- [x] [0105 Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal)
+
 - [x] [0108 Convert Sorted Array to Binary Search Tree](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree)
 
 - [x] [0111 Minimum Depth of Binary Tree](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree)
