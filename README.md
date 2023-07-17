@@ -277,6 +277,8 @@ You can access my solutions below:
 
 - [x] [0698 Partition to K Equal Sum Subsets](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets)
 
+- [x] [0700 Search in a Binary Search Tree](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/700.%20Search%20in%20a%20Binary%20Search%20Tree)
+
 - [x] [0704 Binary Search](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/704.%20Binary%20Search)
 
 - [x] [0729 My Calendar I](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/729.%20My%20Calendar%20I)
