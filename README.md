@@ -191,6 +191,8 @@ You can access my solutions below:
 
 - [x] [0235 Lowest Common Ancestor of a Binary Search Tree](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)
 
+- [x] [0236 Lowest Common Ancestor of a Binary Tree](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree)
+
 - [x] [0237 Delete Node in a Linked List](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/237.%20Delete%20Node%20in%20a%20Linked%20List)
 
 - [x] [0240 Search a 2D Matrix II](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/240.%20Search%20a%202D%20Matrix%20II)
