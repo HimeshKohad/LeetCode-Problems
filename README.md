@@ -396,8 +396,16 @@ You can access my solutions below:
 - [x] [2540 Minimum Common Value](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2540.%20Minimum%20Common%20Value) 
 
 ---
+
+### Contributors
 Contributions are always welcome! If you'd like to add a solution to a new problem or improve an existing solution, feel free to open a pull request.
 
-If you find any issues or have suggestions for improving this repository, please open an issue.
+<a href="https://github.com/HimeshKohad/LeetCode-Problems/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=HimeshKohad/LeetCode-Problems" />
+</a>
+
+<br>
+
+If you have any issues or suggestions for improving this repository, please open an issue.
 
 Happy coding! :computer: :sparkles:
