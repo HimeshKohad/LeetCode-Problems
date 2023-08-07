@@ -253,6 +253,8 @@ You can access my solutions below:
 
 - [x] [0443 String Compression](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/443.%20String%20Compression)
 
+- [x] [0449 Serialize and Deserialize BST](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/449.%20Serialize%20and%20Deserialize%20BST)
+
 - [x] [0450 Delete Node in a BST](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/450.%20Delete%20Node%20in%20a%20BST)
 
 - [x] [0458 Poor Pigs](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/458.%20Poor%20Pigs)
