@@ -49,6 +49,8 @@ You can access my solutions below:
 
 - [x] [0017 Letter Combinations of a Phone Number](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number)
 
+- [x] [0018 4Sum](https://github.com/HimeshKohad/LeetCode-Problems/blob/main/Solutions/18.%204Sum/CppSolution.cpp)
+
 - [x] [0019 Remove Nth Node From End of List](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List)
 
 - [x] [0020 Valid Parentheses](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/20.%20Valid%20Parentheses)
