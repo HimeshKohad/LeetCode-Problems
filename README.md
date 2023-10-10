@@ -395,7 +395,9 @@ You can access my solutions below:
 
 - [x] [2444 Count Subarrays With Fixed Bounds](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2444.%20Count%20Subarrays%20With%20Fixed%20Bounds)
 
-- [x] [2540 Minimum Common Value](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2540.%20Minimum%20Common%20Value) 
+- [x] [2540 Minimum Common Value](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2540.%20Minimum%20Common%20Value)
+
+- [x] [2870 Minimum Number of Operations to Make Array Empty](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2870.%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty)
 
 ---
 
