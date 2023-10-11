@@ -397,6 +397,8 @@ You can access my solutions below:
 
 - [x] [2540 Minimum Common Value](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2540.%20Minimum%20Common%20Value)
 
+- [x] [2869 Minimum Operations to Collect Elements](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2869.%20Minimum%20Operations%20to%20Collect%20Elements)
+
 - [x] [2870 Minimum Number of Operations to Make Array Empty](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2870.%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty)
 
 ---
