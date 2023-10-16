@@ -97,6 +97,8 @@ You can access my solutions below:
 
 - [x] [0050 Pow(x, n)](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/50.%20Pow(x%2C%20n))
 
+- [x] [0051 N-Queens](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/51.%20N-Queens)
+
 - [x] [0054 Spiral Matrix](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/54.%20Spiral%20Matrix)
 
 - [x] [0058 Length of Last Word](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/58.%20Length%20of%20Last%20Word)
