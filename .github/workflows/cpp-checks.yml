@@ -1,4 +1,5 @@
 name: C++ Code Checks
+
 on:
   pull_request:
     paths:
@@ -15,9 +16,13 @@ jobs:
       - name: Set up C++ environment
         uses: actions/setup-cpp@v1
         with:
-          cpp-version: '20' 
+          cpp-version: '20'
 
-      - name: Build and run clang-format
+      - name: Build
         run: |
-          clang-format -i src/**/*.cpp
+          g++ -std=c++20 -o my_program LeetCode-Problems/Solutions/**/*.cpp
+
+      - name: Clang-Format Check
+        run: |
+          clang-format -i LeetCode-Problems/Solutions/**/*.cpp
           git diff --exit-code || exit 1
