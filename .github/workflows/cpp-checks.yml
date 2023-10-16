@@ -1,0 +1,23 @@
+name: C++ Code Checks
+on:
+  pull_request:
+    paths:
+      - 'LeetCode-Problems/Solutions/**/*.cpp'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up C++ environment
+        uses: actions/setup-cpp@v1
+        with:
+          cpp-version: '20' 
+
+      - name: Build and run clang-format
+        run: |
+          clang-format -i src/**/*.cpp
+          git diff --exit-code || exit 1
