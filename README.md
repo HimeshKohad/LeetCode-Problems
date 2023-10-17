@@ -81,6 +81,8 @@ You can access my solutions below:
 
 - [x] [0035 Search Insert Position](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/35.%20Search%20Insert%20Position)
 
+- [x] [0037 Sudoku Solver](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/37.%20Sudoku%20Solver)
+
 - [x] [0039 Combination Sum](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/39.%20Combination%20Sum)
 
 - [x] [0040 Combination Sum II](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/40.%20Combination%20Sum%20II)
