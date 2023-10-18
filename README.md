@@ -101,6 +101,8 @@ You can access my solutions below:
 
 - [x] [0051 N-Queens](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/51.%20N-Queens)
 
+- [x] [0052 N-Queens II](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/52.%20N-Queens%20II)
+
 - [x] [0054 Spiral Matrix](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/54.%20Spiral%20Matrix)
 
 - [x] [0058 Length of Last Word](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/58.%20Length%20of%20Last%20Word)
