@@ -313,6 +313,8 @@ You can access my solutions below:
 
 - [x] [0836 Rectangle Overlap](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/836.%20Rectangle%20Overlap)
 
+- [x] [0844 Backspace String Compare](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/844.%20Backspace%20String%20Compare)
+
 - [x] [0852 Peak Index in Mountain Array](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/852.%20Peak%20Index%20in%20Mountain%20Array)
 
 - [x] [0858 Mirror Reflection](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/858.%20Mirror%20Reflection)
