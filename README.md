@@ -415,6 +415,8 @@ You can access my solutions below:
 
 - [x] [2870 Minimum Number of Operations to Make Array Empty](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2870.%20Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty)
 
+- [x] [2908 Minimum Sum of Mountain Triplets I](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2908.%20Minimum%20Sum%20of%20Mountain%20Triplets%20I)
+
 ---
 
 ### Contributors
