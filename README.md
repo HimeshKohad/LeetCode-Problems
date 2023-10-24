@@ -255,6 +255,8 @@ You can access my solutions below:
 
 - [x] [0389 Find the Difference](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/389.%20Find%20the%20Difference)
 
+- [x] [0390 Elimination Game](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/390.%20Elimination%20Game)
+
 - [x] [0392 Is Subsequence](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/392.%20Is%20Subsequence)
 
 - [x] [0400 Nth Digit](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/400.%20Nth%20Digit)
