@@ -339,6 +339,8 @@ You can access my solutions below:
 
 - [x] [0987 Vertical Order Traversal of a Binary Tree](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree)
 
+- [x] [0994 Rotting Oranges](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/994.%20Rotting%20Oranges)
+
 - [x] [0997 Find the Town Judge](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/997.%20Find%20the%20Town%20Judge)
 
 - [x] [1009 Complement of Base 10 Integer](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1009.%20Complement%20of%20Base%2010%20Integer)
