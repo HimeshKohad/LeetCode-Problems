@@ -155,6 +155,8 @@ You can access my solutions below:
 
 - [x] [0125 Valid Palindrome](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/125.%20Valid%20Palindrome)
 
+- [x] [0130 Surrounded Regions](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/130.%20Surrounded%20Regions)
+
 - [x] [0136 Single Number](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/136.%20Single%20Number)
 
 - [x] [0137 Single Number II](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/137.%20Single%20Number%20II)
