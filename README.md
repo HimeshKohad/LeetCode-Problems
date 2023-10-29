@@ -425,6 +425,10 @@ You can access my solutions below:
 
 - [x] [2908 Minimum Sum of Mountain Triplets I](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2908.%20Minimum%20Sum%20of%20Mountain%20Triplets%20I)
 
+- [x] [2917 Find the K-or of an Array](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2917.%20Find%20the%20K-or%20of%20an%20Array)
+
+- [x] [2918 Minimum Equal Sum of Two Arrays After Replacing Zeros](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/2918.%20Minimum%20Equal%20Sum%20of%20Two%20Arrays%20After%20Replacing%20Zeros)
+
 ---
 
 ### Contributors
