@@ -347,6 +347,8 @@ You can access my solutions below:
 
 - [x] [1009 Complement of Base 10 Integer](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1009.%20Complement%20of%20Base%2010%20Integer)
 
+- [x] [1020 Number of Enclaves](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1020.%20Number%20of%20Enclaves)
+
 - [x] [1037 Valid Boomerang](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1037.%20Valid%20Boomerang)
 
 - [x] [1047 Remove All Adjacent Duplicates In String](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String)
