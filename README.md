@@ -285,6 +285,8 @@ You can access my solutions below:
 
 - [x] [0543 Diameter of Binary Tree](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/543.%20Diameter%20of%20Binary%20Tree)
 
+- [x] [0547 Number of Provinces](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/547.%20Number%20of%20Provinces)
+
 - [x] [0557 Reverse Words in a String III](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/557.%20Reverse%20Words%20in%20a%20String%20III)
 
 - [x] [0567 Permutation in String](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/567.%20Permutation%20in%20String)
