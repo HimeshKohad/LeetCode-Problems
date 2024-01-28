@@ -2,7 +2,7 @@
 
 ### Hi there 👋,
 
-Welcome to my LeetCode solutions repository! Here, you'll find my solutions to various LeetCode problems in C++, Java, and Python, including problems from the weekly and monthly contests, as well as other challenges.
+Welcome to my Leetcode solutions repository! Here, you'll find my solutions to various LeetCode problems in C++, Java, and Python, including problems from the weekly and monthly contests, as well as other challenges.
 
 If you find these solutions helpful in any way, please give this repo a ⭐️. It means a lot and helps me keep motivated to continue sharing my work. 
 
