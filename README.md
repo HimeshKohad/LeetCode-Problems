@@ -19,7 +19,7 @@ This repository contains a log of my LeetCode solutions, including problems from
 
 <hr>
 
-You can access my solutions below:
+You can access my solutions below 👇
 
 - [x] [0001 Two Sum](https://github.com/HimeshKohad/LeetCode-Problems/tree/main/Solutions/1.%20Two%20Sum)
 
